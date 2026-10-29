@@ -1,0 +1,15 @@
+{
+  "name": "agentes-dev",
+  "version": "1.0.0",
+  "description": "Agente de PRD (entrevista de até 5 perguntas, gera .md e .pdf) e agente de revisão de código.",
+  "author": {
+    "name": "Douglas Nunes"
+  },
+  "repository": "https://github.com/douglas-nunes-dev/claude-agentes",
+  "license": "MIT",
+  "keywords": [
+    "prd",
+    "produto",
+    "code-review"
+  ]
+}

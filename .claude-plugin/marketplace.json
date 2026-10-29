@@ -1,0 +1,14 @@
+{
+  "name": "douglas-nunes-agentes",
+  "description": "Agentes e skills pessoais para o Claude Code",
+  "owner": {
+    "name": "Douglas Nunes"
+  },
+  "plugins": [
+    {
+      "name": "agentes-dev",
+      "source": "./plugins/agentes-dev",
+      "description": "Agente de PRD e agente de revisão de código"
+    }
+  ]
+}
